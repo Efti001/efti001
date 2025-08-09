@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm G Morshed Ahmed
 
-<!--
-**Efti001/efti001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Graduate (Dec 2024)** from University of Central Florida  
+💻 Full-Stack Developer | Problem Solver | Tech Enthusiast  
+🚀 Passionate about building real-world applications & solving coding challenges
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+
+---
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/efti)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:gmorshedahmed@gmail.com)
+
+---
+
+> _“Keep learning, keep building, and stay curious!”_
