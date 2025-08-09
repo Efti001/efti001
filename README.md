@@ -1,4 +1,4 @@
-# Hi there 👋, I'm G Morshed Ahmed
+# Hi there 👋, I'm Morshed Ahmed
 
 🎓 **IT Graduate (Dec 2024)** from University of Central Florida  
 💻 Full-Stack Developer | Problem Solver | Tech Enthusiast  
@@ -15,12 +15,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/efti)
