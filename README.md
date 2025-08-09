@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Morshed Ahmed
 
-🎓 **IT Graduate (Dec 2024)** from University of Central Florida  
+🎓 **Information Technology)** graduate from University of Central Florida  
 💻 Full-Stack Developer | Problem Solver | Tech Enthusiast  
 🚀 Passionate about building real-world applications & solving coding challenges
 
